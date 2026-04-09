@@ -1,0 +1,6 @@
+[
+    {"id":1,"name":"Jan","surname":"Kowalski","age":21,"email":"jan@example.com","major":"Informatyka"},
+    {"id":2,"name":"Anna","surname":"Nowak","age":22,"email":"anna@example.com","major":"Matematyka"},
+    {"id":3,"name":"Piotr","surname":"Wiśniewski","age":19,"email":"piotr@example.com","major":"Fizyka"},
+    {"id":4,"name":"Kasia","surname":"Zielińska","age":23,"email":"kasia@example.com","major":"Chemia"}
+]
